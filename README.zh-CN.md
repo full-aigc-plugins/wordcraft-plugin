@@ -11,3 +11,7 @@
 插件展示使用上游官方图标；名称为 **WordCraft Use**。图标来源与许可证保存在 `assets/official-icon-source.json` 和相邻 LICENSE 文件中。
 
 源码增强候选采用 `ui/source.lock.json` 与 `ui/build-source.py`；兼容更新查询本插件自有 GitHub Releases，失败回退内置，原版 Web 不替换增强自动化运行时。当前会话保留；宿主安装验收另行记录。
+
+## 场景操作手册
+
+新增 `wordcraft-scenario-playbooks`：8 条带具体命令、参数与检查的流程，见 [技能入口](skills/wordcraft-scenario-playbooks/SKILL.md)。示例数据需替换，实际运行与创作效果状态见命令证据；不将目录存在当验收通过。
