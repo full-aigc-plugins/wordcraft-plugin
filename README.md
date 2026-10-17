@@ -58,3 +58,7 @@ Plugin display name: **WordCraft Use**. Official upstream icon provenance and li
 ### 候选启动修正
 
 本候选先完成轻量MCP握手及能力发现，在首次工具或资源调用时校验/获取固定编辑器资源。修复多个编辑器首次下载阻塞宿主握手的问题。Windows通过Git安装时须启用Git长路径支持（`git config --global core.longpaths true`）；完整ZIP不包含历史验收记录，可避免Git检出长路径的问题。运行资源沿用已核验的dev.20261017.2制品，不以入口版本号冒充上游升级。
+
+## 具体文档排版场景开发候选
+
+新增可更新目录手册、带图片题注的操作指南、纵向正文与横向矩阵附录三个独立技能，均包含自足方法、参数及可编辑结构检查。当前为未发布场景候选；不代表宿主同步和真实文档全部排版验收。
