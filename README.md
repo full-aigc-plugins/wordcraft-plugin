@@ -65,6 +65,6 @@ Plugin display name: **WordCraft Use**. Official upstream icon provenance and li
 
 ## 商业报价单开发候选 / Commercial quotation candidate
 
-新增 `wordcraft-quotation`：按本次项目、数量和十进制单价生成原生报价明细表，检查合计并交付DOCX/PDF，不自动推断税费。macOS代表样例通过；Windows及共享编辑器未验收。
+新增 `wordcraft-quotation`：按本次项目、数量和十进制单价生成原生报价明细表，检查合计并交付DOCX/PDF，不自动推断税费。macOS与Windows三组样例通过，Codex两项报价与局部改价同步通过；其他宿主及发布验收待完成。
 
-The quotation skill compiles explicit line items into an editable native table and checks decimal totals. The macOS fixture passed; Windows and shared-editor acceptance remain pending.
+The quotation skill compiles explicit line items into an editable native table and checks decimal totals. macOS and Windows native fixtures passed; bounded Codex shared-editor creation and repricing passed. Other hosts and release delivery remain pending.
