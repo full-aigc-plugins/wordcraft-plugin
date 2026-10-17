@@ -14,7 +14,7 @@
 
 ## 场景技能开发候选
 
-当前包含 13 个领域场景技能、1 个内嵌编辑器入口和1个场景操作手册。详见 [场景目录](docs/scene-skills.md)。本地未发布候选，不代表全部场景的创作质量已验收。
+当前包含 14 个领域场景技能、1 个内嵌编辑器入口和1个场景操作手册。详见 [场景目录](docs/scene-skills.md)。本地未发布候选，不代表全部场景的创作质量已验收。
 
 ## 内嵌编辑器候选
 
@@ -62,3 +62,9 @@ Plugin display name: **WordCraft Use**. Official upstream icon provenance and li
 ## 具体文档排版场景开发候选
 
 新增可更新目录手册、带图片题注的操作指南、纵向正文与横向矩阵附录三个独立技能，均包含自足方法、参数及可编辑结构检查。当前为未发布场景候选；不代表宿主同步和真实文档全部排版验收。
+
+## 商业报价单开发候选 / Commercial quotation candidate
+
+新增 `wordcraft-quotation`：按本次项目、数量和十进制单价生成原生报价明细表，检查合计并交付DOCX/PDF，不自动推断税费。macOS代表样例通过；Windows及共享编辑器未验收。
+
+The quotation skill compiles explicit line items into an editable native table and checks decimal totals. The macOS fixture passed; Windows and shared-editor acceptance remain pending.
