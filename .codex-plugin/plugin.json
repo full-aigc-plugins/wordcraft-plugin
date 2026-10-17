@@ -1,6 +1,6 @@
 {
   "name": "wordcraft",
-  "version": "0.1.0-dev.20261017.4",
+  "version": "0.1.0-dev.20261017.5",
   "skills": "./skills/",
   "mcpServers": "./.codex-plugin/mcp.json",
   "interface": {
