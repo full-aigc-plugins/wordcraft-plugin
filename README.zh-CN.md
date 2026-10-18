@@ -13,7 +13,7 @@
 
 > 在智能体会话里起草、排版并交付可编辑的 Word 文档：章节和字段是真实结构，表格是原生表格，交付前还要重开文件核对。
 
-[![版本](https://img.shields.io/badge/release-0.1.0--dev.20261018.5-1A73E8)](#项目定位)
+[![版本](https://img.shields.io/badge/release-0.1.0--dev.20261019.1-1A73E8)](#项目定位)
 [![技能](https://img.shields.io/badge/skills-16-00A67E)](#技能)
 [![MCP 服务器](https://img.shields.io/badge/MCP%20servers-1-6E56CF)](#mcp-工具)
 [![许可证](https://img.shields.io/badge/license-Apache--2.0-green)](LICENSE)

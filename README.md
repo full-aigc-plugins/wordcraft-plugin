@@ -13,7 +13,7 @@ This plugin belongs to **AIGC content creation**.
 
 > Draft, lay out, and deliver editable Word documents from an agent session, with real section structures, native tables, and a reopened-file check before handoff.
 
-[![Version](https://img.shields.io/badge/release-0.1.0--dev.20261018.5-1A73E8)](#positioning)
+[![Version](https://img.shields.io/badge/release-0.1.0--dev.20261019.1-1A73E8)](#positioning)
 [![Skills](https://img.shields.io/badge/skills-16-00A67E)](#skills)
 [![MCP servers](https://img.shields.io/badge/MCP%20servers-1-6E56CF)](#mcp-tools)
 [![License](https://img.shields.io/badge/license-Apache--2.0-green)](LICENSE)
