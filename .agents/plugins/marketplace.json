@@ -20,7 +20,11 @@
         "authentication": "ON_USE"
       },
       "category": "Productivity",
-      "description": "Weekly reports, minutes, quotations, proposals, acceptance reports and resumes. Styles, TOC, page numbers and captions stay consistent."
+      "description": "Weekly reports, minutes, quotations, proposals, acceptance reports and resumes. Styles, TOC, page numbers and captions stay consistent.",
+      "line": "full-aigc",
+      "componentTypes": [
+        "ui"
+      ]
     }
   ],
   "interface": {
