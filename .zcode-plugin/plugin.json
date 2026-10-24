@@ -31,7 +31,7 @@
           "en-US": "WordCraft · Document Writing",
           "zh-CN": "WordCraft · 文档写作"
         },
-        "icon": "file-type",
+        "icon": "file-text",
         "server": "wordcraft-editor",
         "resourceUri": "ui://wordcraft/panel.html",
         "availability": "session"
