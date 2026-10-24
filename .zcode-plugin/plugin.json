@@ -1,10 +1,10 @@
 {
   "name": "wordcraft",
   "version": "0.1.0-dev.20261019.1",
-  "description": "Weekly reports, minutes, quotations, proposals, acceptance reports and resumes. Styles, TOC, page numbers and captions stay consistent.",
+  "description": "工作周报、会议纪要、商业报价、验收报告、需求说明与简历；样式、目录、页码与图表题注保持一致。",
   "license": "Apache-2.0",
   "skills": "./skills/",
-  "displayName": "WordCraft · Document Writing",
+  "displayName": "WordCraft（文档写作）",
   "icon": "./assets/official-logo.png",
   "mcpServers": {
     "wordcraft-editor": {
@@ -21,15 +21,15 @@
     }
   },
   "displayName_i18n": {
-    "en": "WordCraft · Document Writing"
+    "zh-CN": "WordCraft（文档写作）"
   },
   "ui": {
     "surfaces": [
       {
         "id": "editor",
         "title": {
-          "en-US": "WordCraft · Document Writing",
-          "zh-CN": "WordCraft · 文档写作"
+          "en-US": "WordCraft (Document Writing)",
+          "zh-CN": "WordCraft（文档写作）"
         },
         "icon": "file-text",
         "server": "wordcraft-editor",
