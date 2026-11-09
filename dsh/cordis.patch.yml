@@ -8,7 +8,7 @@
 
     - id: mcp-wordcraft-wordcraft-editor
       name: '@deepseek-ai/dsh-mcp-client'
-      disabled: !!js "!process.env.DSH_MCP_WORDCRAFT"
+      disabled: !!js "process.env.DSH_MCP_WORDCRAFT === '0'"
       config:
         serverName: "wordcraft-editor"
         toolCallTimeoutMs: 60000
