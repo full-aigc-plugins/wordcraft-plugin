@@ -1,6 +1,6 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import { alignZcodeResponse } from '../zcode-parity.mjs';
+import { alignZcodeResponse } from './zcode-parity.mjs';
 
 test('面板保留 ZCode 的后台驻留与 WASM CSP，且不覆盖其他元数据', () => {
   const source = { contents: [{ uri: 'ui://wordcraft/panel.html', _meta: { ui: { custom: true } } }] };
